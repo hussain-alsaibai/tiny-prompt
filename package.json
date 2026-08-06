@@ -1,0 +1,24 @@
+{
+  "name": "tiny-prompt",
+  "version": "0.1.0",
+  "description": "Zero-dependency prompt templating, chain-of-thought, and few-shot management for AI agents",
+  "readme": "README.md",
+  "license": "MIT",
+  "keywords": ["prompt", "templating", "chain-of-thought", "few-shot", "llm", "ai-agent"],
+  "authors": [{"name": "Hussain Alsaibai", "email": "hussain.alsaibai@gmail.com"}],
+  "repository": {"type": "git", "url": "https://github.com/hussain-alsaibai/tiny-prompt"},
+  "classifiers": [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Developers",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3",
+    "Programming Language :: Python :: 3.8",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.10",
+    "Programming Language :: Python :: 3.11",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Software Development :: Libraries :: Python Modules",
+    "Topic :: Artificial Intelligence"
+  ],
+  "requiresPython": ">=3.8"
+}
